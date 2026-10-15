@@ -280,7 +280,7 @@ header {
 ----------------------*/
 
 .gradient-fill:before {
-    color: #fc73b4;
+    color: #2e3192;
     background: -moz-linear-gradient(top, #9477b4 0%, #fc73b4 100%);
     background: -webkit-linear-gradient(top, #9477b4 0%, #fc73b4 100%);
     background: linear-gradient(to bottom, #9477b4 0%, #fc73b4 100%);
@@ -597,7 +597,7 @@ header {
 .call-to-action .tagline {
     font-size: 16px;
     font-weight: 300;
-    color: #ffb8f6;
+    color: #bbd5ea;
     max-width: 650px;
     margin: 0 auto;
 }
@@ -625,7 +625,7 @@ header {
     line-height: 50px;
     margin: 0 0.3rem;
     border-radius: 5px;
-    color: #f4c9e2;
+    color: #c9e9f2;
     transition: all 0.3s ease;
 }
 
