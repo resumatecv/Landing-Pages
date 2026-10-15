@@ -188,8 +188,8 @@ p.lead {
 .nav-menu.menu-is-open {
     background-color: #2e3192 ;
     background: -moz-linear-gradient(135deg, rgb(46, 49, 146) 0%, rgb(46, 49, 146) 100%);
-    background: -webkit-linear-gradient(135deg, rgb(74, 13, 143) 0%, rgb(250, 42, 143) 100%);
-    background: linear-gradient(135deg, rgb(74, 13, 143) 0%, rgb(250, 42, 143) 100%);
+    background: -webkit-linear-gradient(135deg, rgb(46, 49, 146) 0%, rgb(46, 49, 146) 100%);
+    background: linear-gradient(135deg, rgb(46, 49, 146) 0%, rgb(46, 49, 146) 100%);
     -webkit-box-shadow: 0px 5px 23px 0px rgba(0, 0, 0, 0.1);
     -moz-box-shadow: 0px 5px 23px 0px rgba(0, 0, 0, 0.1);
     box-shadow: 0px 5px 23px 0px rgba(0, 0, 0, 0.1);
